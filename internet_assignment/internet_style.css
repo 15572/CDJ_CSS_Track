@@ -1,0 +1,211 @@
+#wrapper{
+    width: 960px;
+    margin: 0px auto;
+}
+
+#header{
+    /* background-color: #306ca2; */
+}
+
+#header h3 {
+    font-size: 1.5em;
+    font-weight: normal;
+    font-family: sans-serif;
+    color: white;
+    background-color: #24659e;
+    padding: 10px 20px;
+    margin: -1%;
+}
+
+#hero_header h3{
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    color: #505050;
+    background-color: white;
+    padding: 0px;
+    margin: 20px 0px;
+}
+
+#hero_header img{
+    width: 8%;
+    top: 23px;
+    vertical-align: bottom;
+}
+
+#hero_header span{
+    color: #24659e;
+}
+
+#verticle_left{
+    width: 200px;
+    display: inline-block;
+}
+
+#verticle_left_content{
+    border-bottom: 1.5px solid #888888;
+}
+
+#verticle_left_content h3,h2{
+   font-size: 0.9em;
+   font-family: sans-serif;
+}
+
+.display_blue{
+    color: #24659e;
+}
+
+.display_red{
+    color: red;
+}
+
+#verticle_left_content a{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    box-shadow: 1px 1px #888888;
+    border-radius: 5px;
+    padding: 5px 0px;
+}
+
+#blue_button{
+    background-color: #3c78ad; 
+    margin: 5px 0px;
+ }
+
+#orange_button{
+background-color: orange;
+margin-bottom: 20px;
+}
+
+#verticle_left_image{
+    background-image: url("images/ad_background.png");
+    height: 278px;
+    margin-top: 20px;
+}
+
+#verticle_left_image img{
+    width: 90px;
+    height: 128px;
+    display: block;
+    margin: auto;
+}
+
+#verticle_left_image h2{
+    color:white;
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: lighter;
+    padding: 20px 10px 0px;
+    margin: 0px;
+}
+
+#verticle_left_image a{
+    display: block;
+    text-align: center;
+    color: white;
+    text-decoration: white;
+    background-color: #3fc5df;
+    padding: 5px 0px;
+    margin: 0px 20px;
+    border-radius: 5px;
+}
+
+#main_content{
+    /* background-color: #e7e7e7; */
+    display: inline-block;
+    vertical-align: top;
+    width: 756px;
+    margin-left: 20px;
+    width: 730px;
+}
+
+#main_content_header h4, #contact_info{
+display: inline-block;
+margin-top: 12px;
+}
+
+#contact_info p,h2{
+  margin: 0;  
+  text-align: right
+}
+
+#contact_info h2{
+    color: #3fc5df;
+    font-size: 1.5em;
+}
+
+#contact_info p{
+    font-size: 0.5em;
+    font-family: sans-serif;
+}
+
+#home_img{
+    width: 20px;
+    height: 20px;
+    }
+
+#phone_img{
+    width: 40px;
+    height: 40px;
+    padding-left: 459px;
+}
+
+.display_ligth_blue{
+    color: #3fc5df;
+}
+
+#main_content_body img{
+    width: 250px;
+    display: block;
+    margin: auto;
+}
+
+.para_content h4{
+    color: #3c78ad;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-top: 10px;
+    margin: 0px;
+}
+
+#title_border{
+    border-top: 1px solid #9a9a9a;
+}
+
+.body_content_style , li{
+font-size: 0.8em;
+font-family: sans-serif;
+padding-bottom: 5px;
+}
+
+.para_content p{
+    margin: 0px;
+}
+
+#last_content_box{
+    border: 5px solid #3c78ad;
+    border-bottom: none;
+    margin: auto;
+    width: 610px;
+}
+
+#last_content_box h4{
+    padding-bottom: 5px;
+}
+
+.display_inline_img{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.size_of_last_box{
+    width: 500px;
+}
+
+#last_content_box img{
+    width:85px;
+    padding: 8px;
+}

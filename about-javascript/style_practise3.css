@@ -1,0 +1,82 @@
+/*CSS reset settings here*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper{
+	width: 960px;
+	background-color: #1b335d;
+	margin: 0px auto;
+    /*position: absolute;*/
+    padding: 20px;
+}
+#header{
+	/*min-height: 80px;*/
+	background-color: #cf2f36;
+	margin-bottom: 20px;
+	border-radius: 8px;
+    padding: 20px;
+}
+#navigation{
+	min-height: 200px;
+	/*width: 185px;*/
+	background-color: #297d8c;
+	display: inline-block;
+	/*margin-left: 20px;*/
+	border-radius: 8px;
+	padding:10px; 
+}
+#main_content{
+	min-height: 400px;
+	width: 730px;
+	background-color: #0e1822;
+	display: inline-block;
+	margin-left: 20px;
+	vertical-align: top;
+	margin-bottom: 20px;
+	border-radius: 8px;
+	padding:15px; 
+	padding-top: 25px;
+}
+#advertisement{
+	min-height: 20px;
+	background-color: #5d6573;
+	vertical-align: bottom;
+	border-radius: 15px;
+	padding: 10px;
+}
+
+h1 {
+	color: #c2d6eb
+}
+
+h2 {
+	color: #c2d6eb
+}
+
+ul {
+	padding-left: 10px;
+}
+
+ul li {
+	color: #c2d6eb
+}
+
+.li_main_content{
+padding-bottom: 10px;
+}
+
+a {
+	color: #00FFFF
+}
+p {
+	color: #c2d6eb
+}
+
+.variable {
+	color: #717bda
+}
+
+#sub_li{
+	list-style-type: none;
+	}

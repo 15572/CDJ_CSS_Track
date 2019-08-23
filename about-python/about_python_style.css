@@ -1,0 +1,166 @@
+#wrapper{
+	width: 960px;
+	background-color: #235076;
+	margin: 0px auto;
+	padding-top: 20px;
+}
+
+#logo{
+	display: inline-block;
+}
+
+#logo img {
+    width: 360px;
+    height: 120px;
+}
+
+#search {
+	display: inline-block;
+    vertical-align: top;
+    margin-left: 320px;
+}
+
+#search_nav{
+	padding-left: 40px;
+}
+
+#search_nav span{
+	font-size: 15px;
+	color: white;
+}
+
+#search_nav a{
+	font-size: 15px;
+	color: #d5b300;
+}
+
+#search_box{
+    background-color: #444444;
+    border-radius: 10px;
+    padding: 20px 35px 20px 35px;
+}
+
+#search_box button{
+	background-color: #245076;
+	border: 2px solid #b1b1b1;
+}
+
+#search_button{
+	color: white;
+}
+
+#header_nav{
+	background-color: #3e7aad;
+    height: 20px;
+    width: 760px;
+    margin-left: 60px;
+    border-radius: 5px;
+    padding: 10px 50px 10px 50px;
+}
+
+#main_content1{
+	display: inline-block;
+	padding-bottom: 20px;
+}
+
+#vertical_nav{
+text-align: center;
+width: 205px;
+display: inline-block;
+vertical-align: top;
+padding-right: 20px;
+}
+
+#vertical_nav li{
+	list-style-type: none;
+	padding-bottom: 6px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+#vertical_nav a{
+	color: white;
+	padding: 15px;
+}
+
+#content1{
+	display: inline-block;
+	width: 700px;
+	height: 200px;
+}
+
+#content1 p{
+	text-align: center;
+	color: white;
+	vertical-align: top;
+}
+
+#content1_part1 p {
+	text-align: center;
+	color: white;
+	font-size: 12px;
+}
+
+#content1_part2 p{
+	text-align: center;
+	color: #d5b300;
+    font-size: 21px;
+    font-style: serif;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#yellow_para p{
+	color: #d5b300;
+	font-size: 20px;
+}
+
+#main_content2{
+	background-color: white;
+	/*height: 240px;*/
+}
+
+.content2_parts{
+	display: inline-block;
+	background-color: white;
+	width: 410px;
+	/*height: 200px;*/
+	margin-right: 20px;
+	vertical-align: top;
+	padding: 20px;
+}
+
+.content2_parts h3{
+	border-top: 3px solid #73a7d5;
+}
+
+.content2_parts p, h3{
+	text-align: center;
+}
+
+.content2_parts ul li{
+text-align: center;
+list-style-type: square;
+}
+
+.content2_parts span{
+	color: #73a7d5;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+
+#header_nav a{
+color: white;
+text-decoration: none;
+padding-left: 20px;
+}
+
+#footer{
+	padding: 20px;
+}
+
+#footer a{
+	padding: 0 70px 0 70px;
+ 	color: #79acd9;
+ 	text-decoration: none;
+}
