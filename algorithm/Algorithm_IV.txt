@@ -45,3 +45,15 @@ function replaceNegatives(arr){
 console.log(replaceNegatives([1,2,-3,-5,5]))
 
 
+function removeVals(arr,start,end){
+while(end+1 < arr.length){
+arr[start] = arr[end+1];
+ start++;
+ end++;
+}
+	arr.length = arr.length-(end-start+1);
+	return arr;
+}
+
+console.log(removeVals([20,30,40,50,60,70],2,4));
+
