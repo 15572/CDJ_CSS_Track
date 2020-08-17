@@ -11,6 +11,7 @@ function minMaxAvgOfArrInNewArr(arr){
         else if(min < arr[i]){
             min = arr[i];
         }
+        sum += arr[i];
     }
     var avg = sum / arr.length;
     newArr =[max,min,avg];
